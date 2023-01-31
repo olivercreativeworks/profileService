@@ -1,0 +1,24 @@
+{
+  "name": "profileservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivercreativeworks/profileService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivercreativeworks/profileService/issues"
+  },
+  "homepage": "https://github.com/olivercreativeworks/profileService#readme",
+  "dependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.57",
+    "typescript": "^4.9.5"
+  }
+}
